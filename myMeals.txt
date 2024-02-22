@@ -1,2 +1,3 @@
 breakfast: egg, bread, milk
 lunch: noodles
+dinner: beef rice
