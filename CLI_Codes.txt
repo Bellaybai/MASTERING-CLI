@@ -1,0 +1,3 @@
+pwd - present working directory
+touch - create a new file
+mv - rename a file
