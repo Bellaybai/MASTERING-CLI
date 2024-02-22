@@ -37,3 +37,9 @@ git checkout commitID - seeing state of the code in a particular commit
 pull
 git clone gitlink -- clone the repos
 git pull -- pull any update
+
+Remote Repositories
+
+git remote add origin URLtoRemoteRepo - link remote repo to local repo
+git branch -M main - renaming 'master' branch to 'main'
+git push -u origin main - pushing into origin main branch
