@@ -1,3 +1,9 @@
 pwd - present working directory
 touch - create a new file
-mv - rename a file
+mv - rename a file / a directory, move file or directory 
+clear - clear terminal
+mkdir - create new folder/directory
+cd - change directory
+cd .. - move up to the parent directory
+ls - list all file within the pwd
+rm - remove file

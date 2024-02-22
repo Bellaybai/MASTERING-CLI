@@ -1,0 +1,30 @@
+git config --global user.name your-username - to change username
+git config --global user.email your-email - to change email
+git config user.name - to check username
+git config user.email - to check email
+ls -a: list all document including git
+git status: is also used to check : (on brand master) means git is successfully created
+
+Creating Repos
+git init -- initialize local git Repo
+U-unchecked
+A-Added
+git add
+git rm -- cached
+git commit -m"  "
+git log
+git log --oneline
+
+Committing
+
+git status - shows which files are in the staging area
+git add filename - stages file
+git commit -m "commit message" - committing files in the staging area
+git rm --cached filename - removes a file from staging area
+git add . -- add everything
+git reset -- remove everything
+
+Branches - Master branch; 
+git branch newBranchA -- create a new branch 
+git branch -a -- check the branch whole picture
+
